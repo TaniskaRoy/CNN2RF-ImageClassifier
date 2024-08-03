@@ -1,0 +1,3 @@
+# Image_Classifier 
+
+I developed an image classification system using the Fashion MNIST dataset. I designed a Convolutional Neural Network (CNN) to extract meaningful features from input images. I then used these features to classify the images into one of 10 categories with a Random Forest classifier. To optimize the Random Forest model, I employed RandomizedSearchCV() to identify the best hyperparameters. This approach allows me to improve fashion recommendation systems by providing accurate item classifications and personalized suggestions. Additionally, it offers the potential for real-time image analysis, enhancing inventory management and automated quality control in retail settings.
